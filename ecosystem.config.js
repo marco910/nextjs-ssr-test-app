@@ -5,7 +5,7 @@ module.exports = {
       name: "codedeploy-test-app", // App name
       script: "npm", // Script
       args: "start", // Script arguments e.g. `start` or `run %script_name%`
-      cwd: "/var/www/codedeploy", // Working directory e.g. directory of the git clone
+      cwd: "/var/www/codedeploy/public", // Working directory e.g. directory of the git clone
 
       // Cluster mode
       // instances: "max",
