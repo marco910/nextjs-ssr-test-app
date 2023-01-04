@@ -4,6 +4,7 @@ export default function () {
   return (
     <div>
       <h1>Hello World from Next.js</h1>
+      <h2>This is a CodeBuild test</h2>
       <p>
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
         eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
