@@ -17,14 +17,10 @@ export default function () {
       <br />
       <ul>
         <li>
-          <Link href="/api/test">
-            <a>API GET Test</a>
-          </Link>
+          <Link href="/api/test">API GET Test</Link>
         </li>
         <li>
-          <Link href="/contact">
-            <a>Contact Form</a>
-          </Link>
+          <Link href="/contact">Contact Form</Link>
         </li>
       </ul>
     </div>
