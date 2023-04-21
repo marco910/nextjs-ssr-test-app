@@ -1,3 +1,1 @@
 This is the Changelog with all change to this repo.
-
-Eine neue Zeile im Changelog...
