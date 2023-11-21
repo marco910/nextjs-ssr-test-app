@@ -25,6 +25,9 @@ export default function () {
         <li>
           <Link href="/contact">Contact Form</Link>
         </li>
+        <li>
+          <Link href="/isr">ISR Test</Link>
+        </li>
       </ul>
     </div>
   );
